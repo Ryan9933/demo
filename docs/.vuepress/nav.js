@@ -2,13 +2,6 @@ module.exports = [
     {
         text: '懵逼指南', link: '/guide/'
     },
-    // {
-    //     text: '面试宝典', 
-    //     items: [
-    //         { text: '初级开发篇', link: '/baodian/low/' },
-    //         { text: '中高进阶篇', link: '/baodian/high/' },
-    //     ]
-    // },
     {
         text: '工具箱',
         items: [

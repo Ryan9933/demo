@@ -10,7 +10,7 @@
 </template>
 
 <script>
-const secretKey = require("../../../config/secretKeyConfig")
+// const secretKey = require("../../../config/secretKey")
 export default {
     name: 'Valine',
     // 访问量
@@ -31,8 +31,8 @@ export default {
         }
         new Valine({
           el: '#vcomments' ,
-          appId: secretKey.appId,// your appId
-          appKey: secretKey.appKey, // your appKey
+          appId: '5NqoSNxBCNR1NnlYsIiSWeri-gzGzoHsz',// your appId
+          appKey: 'K1jYt1lHHNysIFFFOIoR3cvs', // your appKey
           avatar:'retro', //头像
           // visitor: true,//访问计数
           placeholder: '记得留下你的邮箱哦！' ,

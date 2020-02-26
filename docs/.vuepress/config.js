@@ -16,11 +16,7 @@ module.exports = {
     themeConfig: {
         lastUpdated: '上次更新',
         nav: require("./nav"),
-        sidebar: require("./sidebar"),
-        // sidebar: {
-        //     '/guide/': getGuideSidebar('懵逼指南', '还没想好')
-        // }
-
+        sidebar: require("./sidebar")
 
     },
 
