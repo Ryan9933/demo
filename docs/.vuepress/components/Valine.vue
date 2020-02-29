@@ -36,6 +36,7 @@ export default {
           avatar:'retro', //头像
           // visitor: true,//访问计数
           placeholder: '记得留下你的邮箱哦！' ,
+          meta:['nick','mail']
         })
         
       }
