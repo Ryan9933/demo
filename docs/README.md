@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: 'https://api.ixiaowai.cn/gqapi/gqapi.php'
+heroImage: 'http://api.neweb.top/bing.php?type=rand'
 heroText: 
 tagline: 
 ---
